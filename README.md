@@ -1,15 +1,9 @@
-# Analysis of User Demand — Yandex Afisha
+# Analysis of User Demand - Yandex Afisha
 
 Exploratory data analysis and hypothesis testing on ticket order data for
 Yandex Afisha (event ticketing platform), aimed at understanding event
 popularity, seasonal demand patterns, and behavioral differences between
 mobile and desktop users.
-
-> **Note on data:** this project uses a training dataset provided by
-> **Yandex Practicum** (Data Analyst program) as part of a learning
-> simulation. The dataset and project brief were provided by Yandex
-> Practicum; all data cleaning, analysis, statistical testing, and
-> conclusions below were built and written independently.
 
 **Notebook:** [`Analysis_of_user_demand_Yandex_Afisha_eng.ipynb`](./Analysis_of_user_demand_Yandex_Afisha_eng.ipynb)
 
@@ -175,4 +169,4 @@ channel, but with room to shorten the re-purchase cycle.
 ## Author
 
 **Vladislav Wiesner**
-[LinkedIn](#) · [GitHub](https://github.com/w1benz)
+[LinkedIn](https://www.linkedin.com/in/vladislav-wiesner-317048300/) · [GitHub](https://github.com/w1benz)
